@@ -1,0 +1,70 @@
+#phan_tieu_de {
+	background-color: #D2151C;
+	border: 2px solid black;
+	}
+
+#phan_noi_dung {
+	border: 2px solid black;
+	}
+
+#LS {
+	background-color: #FACD75;
+	border: solid transparent;
+	}
+
+#TD {
+	background-color: #FEEBBC;
+	border: solid transparent;
+	}
+
+#phan_trung_bay {
+	background-color: #FBEB8C;
+	border: 2px solid black;
+   }
+
+#Binh_luan {
+	background-color: lightblue;
+	border: 2px solid black;
+	}
+
+#phan_chan_trang {
+	background-color: #003366;
+	border: 2px solid black;
+	}
+
+.Tu_hao_tien_buoc_duoi_co_doan{
+	font-family: Hoa Sen Typeface;
+	text-align: center;
+	color: green;
+	}
+
+.il{
+    display: inline-block;
+}
+
+
+.TH{
+	font-family:Patriot UltraBold;
+	color: White;
+	text-align: center;
+	} 
+
+
+
+.BT{
+	text-align: center;
+	color: white;
+   font-family: Allura;
+	}
+
+
+.A{
+   color: black;
+   font-family: arial;
+	}
+
+.C{
+   color: white;
+   font-family: Times New Roman;
+	}	
+
